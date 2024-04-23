@@ -5,7 +5,7 @@ title: Home
 
 # Large Language Models
 
-This is site is a collection of LLM experiments, observations, and other informations.
+This is site is a collection of LLM experiments, observations, and other information related to GPTs, LLMs, and transformer models.
 
 ## Posts
 
@@ -22,7 +22,6 @@ This is site is a collection of LLM experiments, observations, and other informa
 
 You can reach me through the following channels:
 
-- Email: [essobi_@_gmail.com](mailto:essobi_@_gmail.com)
 - Twitter: [@essobi](https://x.com/essobi)
 - GitHub: [Essobi](https://github.com/essobi)
 - GitHub: [data2json](https://github.com/data2json)
