@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
-show_github_link: false
-show_downloads: false
+show_github_link: False
+show_downloads: False
 google_analytics: G-3WS9GT0VMQ
